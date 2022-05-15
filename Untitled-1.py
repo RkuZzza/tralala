@@ -261,3 +261,5 @@ while run:
  
    # Пауза
    pygame.time.delay(20)
+   
+   # вот и все
